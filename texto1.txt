@@ -1,3 +1,4 @@
 hellooooo 
 
 ingresando texto por segunda vez en archivo1
+texto dos segunda parte
